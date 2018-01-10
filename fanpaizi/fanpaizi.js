@@ -2,7 +2,7 @@ $(document).ready(function(){
 	var price;
 	var price_pass;
 	var num = 1;
-	var result_list=new Array("啥也没","哈哈","一等奖","不几道","二等奖","挠背","挠腿","挠头","听指挥","逗你玩");
+	var result_list=new Array("啥也没","哈哈","学狗叫","不几道","二等奖","挠背","挠腿","挠头","听指挥","逗你玩");
 	var result;
 	$("li").on("click",function(){
 		price = $(this).index();
