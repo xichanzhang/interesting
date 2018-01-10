@@ -3,21 +3,21 @@ ul,li,p{
 	padding: 0px;
 }
 .wrapper{
-	width: 2000px;
-	height: 2000px;
+	width: 400px;
+	height: 400px;
 }
 li{
-    margin: 80px;
+    margin: 16px;
 	list-style: none;
-	width: 500px;
-    height: 500px;
+	width: 100px;
+    height: 100px;
     float: left;
 }
 .back{
 	background: url("item.jpg");
-    background-size: 500px 500px;
+    background-size: 100px 100px;
     background-repeat: no-repeat;
 }
 .face{
-
+font-size:18px;
 }
